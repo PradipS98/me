@@ -1,17 +1,14 @@
-/* resets */
-
+@import url('https://fonts.maateen.me/charukola-ultra-light/font.css');
 /* CUSTOM SCROLLBAR*/
-/* width */
+
 ::-webkit-scrollbar {
 	width: 5px;
 }
 
-/* Track */
 ::-webkit-scrollbar-track {
 	background-color: rgba(125, 125, 125, 0.2)
 }
 
-/* Handle */
 ::-webkit-scrollbar-thumb {
 	background: #d36a44;
 }
