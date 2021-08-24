@@ -1,3 +1,5 @@
+@import url('https://fonts.maateen.me/charukola-ultra-light/font.css');
+
 .main_h {
   position: fixed;
   top: 0px;
@@ -173,7 +175,7 @@ p {
   padding-top: 110px;
   min-height: 500px;
   letter-spacing: 2px;
-  font-family: "Montserrat", sans-serif;
+  font-family: "CharukolaUltraLight", sans-serif;
 }
 .hero h1 {
   font-size: 50px;
